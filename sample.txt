@@ -1,2 +1,2 @@
 Hello world..
-This is sample document
+This is sample document to perform push
